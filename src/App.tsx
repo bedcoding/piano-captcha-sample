@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { PianoCaptcha } from 'piano-captcha'
-import 'piano-captcha/dist/index.css'  // 이 줄 추가
+// import 'piano-captcha/index.css'  // 라이브러리 수정해서 이제 외부 프로젝트에서도 자동으로 css 파일이 주입되게 고침 ^^
 
 function App() {
   const [status, setStatus] = useState('Piano Captcha Demo')
