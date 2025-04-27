@@ -1325,10 +1325,10 @@ path-type@^4.0.0:
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
-piano-captcha@^1.0.18:
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/piano-captcha/-/piano-captcha-1.0.18.tgz#a73dc0409fa0187afa018c5c13f7d448ad209806"
-  integrity sha512-33DnhN1dTnp4zMo/2E/URYT7zSIr/MP8nLKI4jClYnhOLmRIdkB7GyMRj8+CD0m98fhA7ReesVW5WhJk5hUNGA==
+piano-captcha@^1.0.24:
+  version "1.0.24"
+  resolved "https://registry.yarnpkg.com/piano-captcha/-/piano-captcha-1.0.24.tgz#f2263617a7f5a33357cd3f5b65251577d30db0a8"
+  integrity sha512-LGtgCAk11ME/Td8dS4Mwia2ai4zFd/zfy2H6c5woPDRRDCv9OKB6NjW2sNDPBgwmmFeeWXbr4y8cT8IP9ogyVw==
   dependencies:
     react "^18.3.1"
     react-dom "^18.3.1"
